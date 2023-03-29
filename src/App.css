@@ -1,0 +1,40 @@
+.card {
+  background-color:#e23636;
+  color:#fff;
+  border-radius: 10px;
+}
+.btn {
+  margin-top: 30px;
+}
+.title {
+  display: flex;
+  margin-top: 10px;
+}
+.quote {
+  width: 600px;
+  text-align: left;
+  padding: 40px;
+  border-radius: 20px;
+}
+.quote_title {
+  display: block;
+  text-align: right;
+  margin-top: 5px;
+}
+.quote_error {
+  width: 600px;
+  text-align: center;
+  padding: 40px;
+}
+.speaker {
+  font-weight: 900;
+  display: block;
+  margin-top: 30px;
+  text-align: right;
+}
+.logo {
+  margin-top: 10px;
+}
+img {
+  width: 300px;
+}
